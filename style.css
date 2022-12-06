@@ -1,0 +1,14 @@
+ nav a{
+    text-decoration: none;
+    color: #000;
+    display: inline-block;
+ }
+
+ nav ul li{
+    float: left;
+ }
+
+ nav{
+    background-color: blue;
+    overflow: auto;
+ }

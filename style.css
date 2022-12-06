@@ -2,10 +2,12 @@
     text-decoration: none;
     color: #000;
     display: inline-block;
+    padding: 10px;
  }
 
  nav ul li{
-    float: left;
+    float: right;
+    list-style-type: none;
  }
 
  nav{
